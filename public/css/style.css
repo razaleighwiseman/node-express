@@ -1,0 +1,8 @@
+.jumbotron {
+    /* add bootstrap jumbotron background image*/ 
+    /*background: url("/img/np_bg.jpg") no-repeat center center transparent*/;
+    /* change bootstrap jumbotron text color */
+    background-color: #0876B1;
+    color: #FFF;
+    text-shadow: #444 0 1px 1px;	
+}
